@@ -11,3 +11,5 @@ To get started, follow these steps:
 2. Navigate to the project directory: `cd <repository-name>`
 
 3. Install the required dependencies: `pip install -r requirements.txt`
+
+4. Run the Python file of your choice: `python <filename>.py`
