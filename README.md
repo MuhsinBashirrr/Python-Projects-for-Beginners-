@@ -23,3 +23,8 @@ The following projects are included in this repository:
 ## Contributing
 
 If you would like to contribute to this repository, feel free to submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
