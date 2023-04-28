@@ -17,3 +17,5 @@ To get started, follow these steps:
 ## Projects
 
 The following projects are included in this repository:
+
+1. **Calculator:** A simple calculator that can perform basic arithmetic operations.
