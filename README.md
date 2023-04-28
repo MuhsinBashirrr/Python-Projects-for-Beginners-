@@ -16,3 +16,4 @@ To get started, follow these steps:
 
 ## Projects
 
+The following projects are included in this repository:
