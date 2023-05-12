@@ -4,7 +4,7 @@ This repository contains a collection of Python projects suitable for beginners 
 
 ## Project List
 
-- [Dice Rolling Simulator](./Dice_Rolling_Simulator/README.md)
+- [Calculator](calci.py)
 - [Password Generator](./Password_Generator/README.md)
 - [Guess the Number](./Guess_the_Number/README.md)
 - [Rock Paper Scissors](./Rock_Paper_Scissors/README.md)
