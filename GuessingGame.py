@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 secret_word = "Muhsin"
 guess = ""
 guess_count = 0
