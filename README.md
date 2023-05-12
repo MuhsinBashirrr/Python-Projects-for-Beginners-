@@ -5,7 +5,7 @@ This repository contains a collection of Python projects suitable for beginners 
 ## Project List
 
 - [Calculator](calci.py)
-- [Guess the Number (computer)](Guess the Number (computer) .py)
+- [Guess the Number (computer)](GuesstheNumber(computer).py)
 
 ## Getting Started
 
