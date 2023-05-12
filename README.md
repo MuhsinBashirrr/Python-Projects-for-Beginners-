@@ -5,11 +5,7 @@ This repository contains a collection of Python projects suitable for beginners 
 ## Project List
 
 - [Calculator](calci.py)
-- [Password Generator](./Password_Generator/README.md)
-- [Guess the Number](./Guess_the_Number/README.md)
-- [Rock Paper Scissors](./Rock_Paper_Scissors/README.md)
-- [Hangman](./Hangman/README.md)
-- [Tic Tac Toe](./Tic_Tac_Toe/README.md)
+- [Guessing Game](GuessingGame.py)
 
 ## Getting Started
 
