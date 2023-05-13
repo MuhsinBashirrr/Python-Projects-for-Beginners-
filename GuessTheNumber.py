@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 
 def guess(x):
@@ -19,10 +13,7 @@ def guess(x):
             print("Sorry, guess number is too high")
     print(f'Yay, you have guessed the number {random_number}:')
     
-guess(10)    
-
-
-# In[ ]:
+guess(10)
 
 
 
