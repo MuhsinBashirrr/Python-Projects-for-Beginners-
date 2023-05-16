@@ -8,6 +8,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Guess the Number (computer)](GuessTheNumber.py)
 - [Dice Rolling Simulator](DiceRollingSimulator.py)
 - [QR Code Generator](QRCodeGenerator.py)
+- [BMI Calculator](BMICalculator.py)
 
 
 ## Getting Started
