@@ -9,6 +9,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Dice Rolling Simulator](DiceRollingSimulator.py)
 - [QR Code Generator](QRCodeGenerator.py)
 - [BMI Calculator](BMICalculator.py)
+- [Animal Quiz Game](AnimalQuizGame.py)
 
 
 ## Getting Started
