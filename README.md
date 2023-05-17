@@ -10,6 +10,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [QR Code Generator](QRCodeGenerator.py)
 - [BMI Calculator](BMICalculator.py)
 - [Animal Quiz Game](AnimalQuizGame.py)
+- [Convert Roman Numbers to Decimals](ConvertRomanNumberstoDecimals.py)
 
 
 ## Getting Started
