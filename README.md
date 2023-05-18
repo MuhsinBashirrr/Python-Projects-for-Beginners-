@@ -12,6 +12,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Animal Quiz Game](AnimalQuizGame.py)
 - [Convert Roman Numbers to Decimals](ConvertRomanNumberstoDecimals.py)
 - [Email Slicer](EmailSlicer.py)
+- [Alarm Clock](AlarmClock.py)
 
 
 ## Getting Started
