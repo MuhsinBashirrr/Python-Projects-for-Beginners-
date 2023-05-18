@@ -11,6 +11,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [BMI Calculator](BMICalculator.py)
 - [Animal Quiz Game](AnimalQuizGame.py)
 - [Convert Roman Numbers to Decimals](ConvertRomanNumberstoDecimals.py)
+- [Email Slicer](EmailSlicer.py)
 
 
 ## Getting Started
