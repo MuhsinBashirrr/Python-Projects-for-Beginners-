@@ -14,6 +14,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Email Slicer](EmailSlicer.py)
 - [Alarm Clock](AlarmClock.py)
 - [Age Calculator](AgeCalculator.py)
+- [Find Missing Number](FindMissingNumber.py)
 
 
 ## Getting Started
