@@ -13,6 +13,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Convert Roman Numbers to Decimals](ConvertRomanNumberstoDecimals.py)
 - [Email Slicer](EmailSlicer.py)
 - [Alarm Clock](AlarmClock.py)
+- [Age Calculator](AgeCalculator.py)
 
 
 ## Getting Started
