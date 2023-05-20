@@ -15,6 +15,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Alarm Clock](AlarmClock.py)
 - [Age Calculator](AgeCalculator.py)
 - [Find Missing Number](FindMissingNumber.py)
+- [Print Coloured Text](PrintColouredText.py)
 
 
 ## Getting Started
