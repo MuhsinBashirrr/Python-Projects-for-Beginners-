@@ -16,6 +16,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Age Calculator](AgeCalculator.py)
 - [Find Missing Number](FindMissingNumber.py)
 - [Print Coloured Text](PrintColouredText.py)
+- [Password Generator](PasswordGenerator.py)
 
 
 ## Getting Started
