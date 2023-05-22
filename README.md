@@ -17,6 +17,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Find Missing Number](FindMissingNumber.py)
 - [Print Coloured Text](PrintColouredText.py)
 - [Password Generator](PasswordGenerator.py)
+- [Hangman Game](HangmanGame.py)
 
 
 ## Getting Started
