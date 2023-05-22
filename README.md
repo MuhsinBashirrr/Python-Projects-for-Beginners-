@@ -18,6 +18,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Print Coloured Text](PrintColouredText.py)
 - [Password Generator](PasswordGenerator.py)
 - [Hangman Game](HangmanGame.py)
+- [Rock Paper Scissors](RockPaperScissors.py)
 
 
 ## Getting Started
