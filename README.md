@@ -19,6 +19,7 @@ This repository contains a collection of Python projects suitable for beginners 
 - [Password Generator](PasswordGenerator.py)
 - [Hangman Game](HangmanGame.py)
 - [Rock Paper Scissors](RockPaperScissors.py)
+- [Word Replacement](WordReplacement.py)
 
 
 ## Getting Started
