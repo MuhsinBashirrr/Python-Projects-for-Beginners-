@@ -1,6 +1,6 @@
 def replace_word():
 
-    str = "Hy mUHSIN"
+    str = "Hy Muhsin"
 
     word_to_replace = input("enter the word you want to replace: ")
 
