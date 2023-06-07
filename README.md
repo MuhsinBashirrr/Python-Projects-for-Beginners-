@@ -33,7 +33,3 @@ This repository contains a collection of Python projects suitable for beginners 
 ## Contributing
 
 Contributions to this repository are always welcome! If you have a project that you think would be suitable for beginners to learn and practice programming concepts, feel free to submit a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](./LICENSE).
